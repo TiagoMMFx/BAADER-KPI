@@ -1,1 +1,1 @@
-## Step by step guide on creation of OData Url for Microsoft Dynamics Nav 2015
+## A step-by-step guide for crafting an OData URL in Microsoft Dynamics NAV 2015.
