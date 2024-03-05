@@ -1,6 +1,6 @@
 ### Using the Dynamics NAV Connector in Power BI
 
-#### 1. Open Power BI Desktop:
+1. **Open Power BI Desktop:**
    - Launch Power BI Desktop.
 
 2. **Choose "Get Data":**
