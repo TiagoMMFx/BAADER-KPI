@@ -31,3 +31,6 @@
 1. Save the record by either:
    - Clicking on the "Save" button.
    - Pressing Ctrl + S.
+
+### OData Web Service Instance Created
+Now that you have successfully created a new OData web service instance in Dynamics NAV, you can utilize the generated OData URL when connecting to this service in Power BI.
