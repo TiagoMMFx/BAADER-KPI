@@ -15,3 +15,19 @@
 - **Object Type:** Page
 - **Object ID:** Choose the ID of the page you want to expose through the web service.
 - **Object Name:** The name of the page object.
+
+#### 4. Define a Service Name
+1. Enter a meaningful name for your web service in the "Service Name" field. This name is used to identify the service in Dynamics NAV.
+
+#### 5. Mark as Published
+1. Set the "Published" field to Yes to make the web service accessible.
+
+#### 6. Generate OData and SOAP URLs
+1. After defining the service, Dynamics NAV will automatically generate the following URLs:
+   - **OData URL:** Use this in Power BI for connecting to the service.
+   - **SOAP URL:**
+
+#### 7. Save the Web Service Instance
+1. Save the record by either:
+   - Clicking on the "Save" button.
+   - Pressing Ctrl + S.
