@@ -15,7 +15,7 @@
 5. **Configure Authentication:**
    - Enter your Username And Password
    - Specify the Level to Apply Settings
-        - Choose whether to apply these settings to "All users" or "This user." This determines whether the connection settings will be saved globally for all users of the Power BI report or just for the current user.
+      _Choose whether to apply these settings to "All users" or "This user." This determines whether the connection settings will be saved globally for all users of the Power BI report or just for the current user_
 
 6. **Load Data:**
    - After configuring the connection, click "Connect" to establish the connection to your Dynamics NAV instance.
