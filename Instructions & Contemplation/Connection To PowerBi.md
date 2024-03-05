@@ -7,22 +7,21 @@
    - On the "Home" tab, click on "Get Data."
 
 3. **Select "Dynamics NAV":**
-   - In the "Get Data" window, choose "Dynamics NAV" from the list of available connectors.
+   - In the "Get Data" window, click on "More.." and search & Select for "Dynamics NAV"
 
 4. **Enter Connection Details:**
-   - Enter the server, instance, and other connection details for your Dynamics NAV instance.
+   - Enter the OData URL And Company Name, This step is optional.
 
-5. **Choose Company:**
-   - Specify the company you want to connect to.
+5. **Configure Authentication:**
+   - Enter your Username And Password
+   - Specify the Level to Apply Settings
+        - Choose whether to apply these settings to "All users" or "This user." This determines whether the connection settings will be saved globally for all users of the Power BI report or just for the current user.
 
-6. **Configure Authentication:**
-   - Configure the authentication method based on your Dynamics NAV setup.
-
-7. **Load Data:**
+6. **Load Data:**
    - After configuring the connection, click "Connect" to establish the connection to your Dynamics NAV instance.
 
-8. **Select Tables or Entities:**
+7. **Select Tables or Entities:**
    - Choose the tables or entities you want to import into Power BI.
 
-9. **Load Data:**
+8. **Load Data:**
    - Click "Load" to import the selected data into Power BI.
