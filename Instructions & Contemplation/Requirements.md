@@ -20,3 +20,4 @@
 	> Simple Clean User Friendly Display
 
 #### 6. Considering Additional Information.
+	> None For Now
